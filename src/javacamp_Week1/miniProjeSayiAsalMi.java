@@ -16,7 +16,7 @@ public class miniProjeSayiAsalMi {
 				kalan = sayi % i;
 				if (kalan == 0) {
 					mesaj = "Sayı asal değildir. " + i + " sayısına kalansız bölünmektedir.";
-					break;
+					break; // İçinde bulunduğun bloğu sonlandır.
 				}
 			}
 		}
