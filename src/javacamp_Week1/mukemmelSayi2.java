@@ -4,7 +4,7 @@ public class mukemmelSayi2 {
 
 	public static void main(String[] args) {
 
-		long nereyeKadar = 1000;
+		long nereyeKadar = 10000;
 
 		long total = 0;
 
