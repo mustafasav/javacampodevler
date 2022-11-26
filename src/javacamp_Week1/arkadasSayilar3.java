@@ -19,7 +19,7 @@ public class arkadasSayilar3 {
 				}
 			}
 		}
-		if (varMi != true) {
+		if (varMi == false) {
 			System.out.println("Belirlenen sınırda arkadaş sayı bulunamamıştır!!!");
 		}
 
